@@ -1,2 +1,2 @@
 # automatic-potato
-a test repository
+a test repository for day 1
